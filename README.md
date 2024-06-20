@@ -6,8 +6,8 @@ This is the repository for the streaming-backend project, which is a backend app
 
 Before you begin, make sure you have installed the following on your machine:
 
-- Node.js (version X.X.X)
-- MongoDB (version X.X.X)
+- Node.js (version 20)
+- MongoDB (version version 6.0)
 
 
 ## Installation
